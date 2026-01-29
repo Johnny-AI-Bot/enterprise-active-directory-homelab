@@ -11,7 +11,7 @@ The environment simulates a small Windows domain to better understand identity m
 - VMware Workstation
 - Isolated internal virtual network
 
-  ## Repository Structure
+## Repository Structure
 
 - **architecture/**  
   High-level overview of the lab design and isolated network layout.
