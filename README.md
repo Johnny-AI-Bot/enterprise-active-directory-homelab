@@ -11,6 +11,21 @@ The environment simulates a small Windows domain to better understand identity m
 - VMware Workstation
 - Isolated internal virtual network
 
+  ## Repository Structure
+
+- **architecture/**  
+  High-level overview of the lab design and isolated network layout.
+
+- **setup/**  
+  Domain controller configuration and Windows 11 domain join documentation.
+
+- **security/**  
+  Role-based access control and least-privilege implementation notes.
+
+- **monitoring/**  
+  Network traffic observations related to domain authentication using Wireshark.
+
+
 ## Key Objectives
 - Deploy and configure a Windows Server Domain Controller
 - Implement Active Directory users, groups, and organizational units
