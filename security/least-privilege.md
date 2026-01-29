@@ -6,4 +6,4 @@ least-privilege access principles. Test user accounts were used to validate that
 users only had access to resources required for their assigned role.
 
 This demonstrates foundational identity and access management (IAM) concepts
-used in enterprise Windows environments.
+used in enterprise Windows environments. 
